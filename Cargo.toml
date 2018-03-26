@@ -1,0 +1,7 @@
+[package]
+name = "mm-bin-to-text"
+version = "0.1.0"
+authors = ["munenaga <mm0205@outlook.jp>"]
+
+[dependencies]
+mm-errors = { git = "https://github.com/mm0205/mm-errors.git" }
